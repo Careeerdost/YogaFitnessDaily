@@ -1,124 +1,28 @@
 <resources>
 
     <string name="app_name">Yoga Fitness Daily</string>
-    <string name="app_admob_id">ca-app-pub-5341293895006711~5628436670</string>
-    <string name="fb_interstitial">738814316457198_738815523123744</string>
-    <string name="fb_banner">738814316457198_738834873121809</string>
-    <string name="abmb_yg_interstitial">ca-app-pub-5341293895006711/7461716886</string>
-    <string name="admb_yg_banner">ca-app-pub-5341293895006711/6739678066</string>
-
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
-
-    <string name="summary_about">This yoga app primarily focuses on:\n
-         - Yoga Fitness Benefits\n
-         - Workout for weight loss\n
-         - Workouts for strong legs\n
-         - Beginning Yoga\n
-         - Strong immune system\n
-         - To increase height\n
-         - Exercise scheme\n
-         - Yoga Tips\n
-         - Exercise fitness instructions\n
-         - Diet Plan\n
-         - And much more&#8230;</string>
     <string name="app_version">Ver.: 2.0.2</string>
     <string name="app_email">support@careerdost.in</string>
-
+    <string name="welcome_dost">Welcome Friend!</string>
     <string name="appreciate_your_time">Thanks for your Time!\n Would you like to Rate Us!</string>
     <string name="todo">TODO</string>
-    <string name="start">Start</string>
-    <string name="done">Done</string>
-    <string name="skip">Skip</string>
-    <string name="get_ready">Get Ready</string>
-    <string name="rest_time">Rest Time</string>
-    <string name="todays_yoga">Today\s Yoga Finished!</string>
-    <string name="awesome">Awesome!</string>
-    <string name="you_are_done">You\re done with Today\s Yoga</string>
     <string name="yoga_ins">Yoga Instructions</string>
-    <string name="play_video">Play Video</string>
-    <string name="yoga_30_days">Yoga 30 Days</string>
-    <string name="yoga_exercises">Yoga Exercises</string>
     <string name="yoga_tips">Yoga Tips</string>
-    <string name="yoga_programs">Yoga Programs</string>
     <string name="yoga_extras">Yoga Extras</string>
     <string name="share_app">Share App</string>
     <string name="follow_us">Follow us on</string>
     <string name="feedback">Feedback</string>
     <string name="install">Install</string>
-    <string name="rate_us_title">How did you like the app?</string>
-    <string name="rate_us_yes">Sure!</string>
-    <string name="rate_us_no">Not now!</string>
-    <string name="workout_done">Workout Done</string>
     <string name="instruct">Instructions</string>
     <string name="name_of_exercise">Name of Exercise</string>
-    <string name="om_chanting">Om Chanting</string>
-    <string name="five">5</string>
-    <string name="check_calendar">Check\nCalendar</string>
-    <string name="check_setting">Check\nSetting</string>
-
     <string name="about_us">About Us</string>
-    <string name="yoga_calendar">Yoga Calendar</string>
-    <string name="yoga_settings">Yoga Settings</string>
     <string name="privacy_policy">Privacy Policy</string>
     <string name="connect_on_fb">Like us on FB</string>
     <string name="connect_on_tw">Follow us on Twitter</string>
     <string name="connect_on_pin">Follow us on Pinterest</string>
-    <string name="more_apps">More Apps</string>
     <string name="update">Update</string>
     <string name="share">Share</string>
-
-    <string name="easy">Easy</string>
-    <string name="medium">Medium</string>
-    <string name="hard">Hard</string>
-    <string name="on">On</string>
-    <string name="off">Off</string>
-    <string name="save">Save</string>
-
-    <!--<string name="easy_yoga_pose">Easy Yoga Pose</string>-->
-    <string name="lotus_yoga_pose">Lotus Yoga Pose</string>
-    <!--<string name="bound_angle_yoga_pose">Bound Angle Yoga Pose</string>-->
-    <string name="garland_yoga_pose">Garland Yoga Pose</string>
-    <string name="hero_yoga_pose">Hero Yoga Pose</string>
-    <string name="cat_yoga_pose">Cat Yoga Pose</string>
-    <string name="cow_yoga_pose">Cow Yoga Pose</string>
-    <string name="chair_yoga_pose">Chair Yoga Pose</string>
-    <string name="standing_half_forward_bend">Standing Half Forward Bend</string>
-    <string name="upward_crescent_moon_yoga_pose">Upward Crescent Moon Pose</string>
-    <!--<string name="high_lunge_yoga_pose">High Lunge Yoga Pose</string>-->
-    <string name="mountain_yoga_pose">Mountain Yoga Pose</string>
-    <string name="side_plank_yoga_pose">Side Plank Yoga Pose</string>
-    <string name="staff_yoga_pose">Staff Yoga Pose</string>
-    <!--<string name="legs_up_the_wall_yoga_pose">Legs-up-the-wall Pose</string>-->
-    <string name="sphinx_yoga_pose">Sphinx Yoga Pose</string>
-    <string name="reclining_bound_angle_yoga">Reclining Bound Angle</string>
-    <string name="corpse_yoga_pose">Corpse Yoga Pose</string>
-
-    <string name="ctet_logo">CTET Exam 2019 Quiz &amp; Preparation</string>
-    <string name="ctet_rating">\u0020&#8212;\u0020</string>
-    <string name="gkca_logo">GK &amp; Current Affairs Quiz 2018</string>
-    <string name="gkca_rating">4.30</string>
-    <string name="aptitude_logo">Aptitude Test &amp; Logical Reasoning Test</string>
-    <string name="aptitude_rating">4.04</string>
-    <string name="careerdost_logo">CTET 2019 Exam Prep - Quiz</string>
-    <string name="careerdost_rating">4.07</string>
-    <string name="yogafitness_logo">Yoga Fitness Daily - Lose Weight in 30 Days</string>
-    <string name="yogafitness_rating">4.21</string>
-
-    <string name="alarm_static_mode_text">Set Yoga Exercise\'s Mode:\nEasy: 45 secs, Medium: 2 mins, Hard: 4 mins.</string>
-    <string name="alarm_static_text">Also, now you can set a daily reminder for Yoga Fitness Daily, at your convenient time.</string>
-    <string name="no_alarm">Alarm is not set!</string>
-    <string name="set_alarm">Open Time Picker</string>
-    <string name="cancel_alarm">Cancel Alarm</string>
-    <string name="alarm_set_for">Alarm set for:\u0020</string>
-    <string name="are_you_sure">This time has passed!</string>
-    <string name="alarm_cancelled">Alarm Cancelled!</string>
-
-    <string name="welcome_dost">Welcome Friend!</string>
-
-    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
-
-    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
-
 </resources>
